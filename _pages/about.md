@@ -1,8 +1,8 @@
 ---
-layout: about
-title: about
+layout: about me
+title: about me
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Howard University</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
